@@ -1,0 +1,1 @@
+Python implementation of Vera++ rules as in https://bitbucket.org/verateam/vera/wiki/Rules
